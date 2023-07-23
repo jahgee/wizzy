@@ -1,0 +1,11 @@
+hello there 
+please read carefully before running this installation on your computer,
+
+make sure to turn off your internet before initiating installation of the software
+
+2) please deactivate the firewal before installtion
+
+3)ignore the prompt.
+
+thank you
+...input serial number and install your software.
